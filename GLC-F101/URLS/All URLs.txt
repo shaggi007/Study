@@ -1,0 +1,25 @@
+***********************ICompass*************************
+https://icompass.fs.capgemini.com/iCompass/#/login
+
+******************For Vendor  Location*************  
+https://icompassweb.fs.capgemini.com/iCompass/#/login
+
+***************Pune-Hijawadi Location***********
+userid:ADM-IG-HWDLAB1b
+Password:corp1b@321
+*************************Pune iUpload**************
+http://ndafile:8081/iUpload/upload/upload.action
+******************* shared ndafile****************
+\\ndafile
+************************SVN-URL*********
+svn://ndafile/ELTP_2017/JEE_Lot/19July17_Propel_Pune/G1
+
+****************Kahoot URL*****************
+****for playing quiz Kahoot URL-Is*******************
+https://kahoot.com/
+**********************************Mumbai IUpload link****
+http://iupload:8080/iupload
+--------------------Mumbai-----------------
+arltrgsrv
+------------Baglore------------
+\\In-blr-cmdp01 
