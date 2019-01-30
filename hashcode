@@ -1,0 +1,5 @@
+Q)What is role of hashcode?
+Ans)Returns a hash code value for the object. This method is supported for the benefit of hashtables
+Q)What is contract of hashcode?
+Ans)The general contract of hashCode is: ... If two objects are equal according to the equals(Object) method, then calling the hashCode method on each of the two objects must produce the same integer result.
+Q)If two hashcodes are same their objects may not be equal,if two objects are equal their hashcodes are same.
